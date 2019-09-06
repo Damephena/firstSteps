@@ -1,0 +1,1 @@
+First Steps explores simple CRUD and authentication.
